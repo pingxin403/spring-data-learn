@@ -37,6 +37,7 @@ public class AppTest
     @Before
     public void initClient() {
         try {
+
             client = new PreBuiltTransportClient(Settings.EMPTY)
                     .addTransportAddress(
                             new InetSocketTransportAddress(

@@ -13,6 +13,9 @@
         <module>02-sd-jpa</module>
         <module>03-sd-redis</module>
         <module>04-es-review</module>
+        <module>05-sd-es</module>
+        <module>06-sd-mongodb</module>
+        <module>07-case</module>
     </modules>
 
 
